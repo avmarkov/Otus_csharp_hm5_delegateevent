@@ -171,4 +171,6 @@ static void FileFoundProc(object sender, FileArgs file)
 ```
 
 #### 5. Вывести в консоль сообщения, возникающие при срабатывании событий и результат поиска максимального элемента.
+<image src="images/res1.png" alt="result">
 
+<image src="images/res2.png" alt="result">
